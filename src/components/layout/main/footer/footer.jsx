@@ -1,12 +1,14 @@
 import React from 'react'
 
+import "./footer.scss";
+
 export default class Footer extends React.Component {
     constructor() {
         super();
     }
     render() {
         return (
-            <footer>
+            <footer className="footerComponent">
                 <hr />
                 <p>
                     This project is created and maintained by Jeremy Gebhart<br />

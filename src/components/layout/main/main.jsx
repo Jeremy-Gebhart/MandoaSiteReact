@@ -7,8 +7,10 @@ import Footer from './footer/footer.jsx';
 import PageRoutes from './pageRoutes/pageRoutes.jsx';
 import {BrowserRouter as Router} from 'react-router-dom'
 
-//import './main.css';
-export default class main extends React.Component {
+// Styles
+import "./main.scss";
+
+export default class Main extends React.Component {
     constructor() {
         super();
     }

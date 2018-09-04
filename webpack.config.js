@@ -1,4 +1,5 @@
 const HtmlWebPackPlugin = require('html-webpack-plugin');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
     entry: './src/app.jsx',
@@ -25,14 +26,28 @@ module.exports = {
                 }
             },
             {
-                    test: /\.scss$/,
-                    use: ['css-loader', 'sass-loader']
+                test: /\.scss$/, 
+                use: ExtractTextPlugin.extract({
+                    fallback: 'style-loader',
+                    use: ['css-loader', 'sass-loader' ]
+                })
+            },
+            {
+                test: /\.ttf$/,
+                use: [{
+                    loader: 'file-loader',
+                    options: {
+                        name: '[name].[ext]',
+                        outputPath: 'fonts/'
+                    }
+                }]
             }]
     },
     plugins: [
         new HtmlWebPackPlugin({
             template: "./src/index.html",
             filename: "./index.html"
-        })
+        }),
+        new ExtractTextPlugin('assets/style-[hash:6].css'),
     ]
 };
