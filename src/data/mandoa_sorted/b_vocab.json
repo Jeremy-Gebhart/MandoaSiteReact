@@ -1,0 +1,462 @@
+[
+    {
+        "word": "baarpir",
+        "pronunciation": "[BAR-peer]",
+        "definition": "sweat"
+    },
+    {
+        "word": "baar'ur",
+        "pronunciation": "[BAR-oor]",
+        "definition": "medic"
+    },
+    {
+        "word": "baatir",
+        "pronunciation": "[BAH-teer]",
+        "definition": "care, worry about"
+    },
+    {
+        "word": "ba'balut",
+        "pronunciation": "[BAH-bal-oot]",
+        "definition": "on patrol"
+    },
+    {
+        "word": "ba'buir",
+        "pronunciation": "[BA-boo-EER]",
+        "definition": "grandfather"
+    },
+    {
+        "word": "ba'buir",
+        "pronunciation": "[BA-boo-EER]",
+        "definition": "grandmother"
+    },
+    {
+        "word": "Ba'gedet'ye!",
+        "pronunciation": "[BAH-geh-DET-yeh]",
+        "definition": "You're welcome! (Like the German use of bitte.)"
+    },
+    {
+        "word": "bah",
+        "pronunciation": "[bah]",
+        "definition": "to (dative)"
+    },
+    {
+        "word": "bajur",
+        "pronunciation": "[BAH-jur]",
+        "definition": "education, the raising and nurturing of children - a wider meaning than just school work, includes preparation for life and survival"
+    },
+    {
+        "word": "ba'jurir",
+        "pronunciation": "[bah-jur-EER]",
+        "definition": "educate"
+    },
+    {
+        "word": "ba'jurir",
+        "pronunciation": "[bah-jur-EER]",
+        "definition": "raise children"
+    },
+    {
+        "word": "bal",
+        "pronunciation": "[bahl]",
+        "definition": "and"
+    },
+    {
+        "word": "balac",
+        "pronunciation": "[bah-LAHK]",
+        "definition": "opportunity"
+    },
+    {
+        "word": "bal'ban",
+        "pronunciation": "[bal-BAHN]",
+        "definition": "indeed, definitely - emphatic"
+    },
+    {
+        "word": "balyc",
+        "pronunciation": "[BAH-leesh]",
+        "definition": "also"
+    },
+    {
+        "word": "banar",
+        "pronunciation": "[bah-NAR]",
+        "definition": "happen"
+    },
+    {
+        "word": "bantov",
+        "pronunciation": "[BAHN-tov]",
+        "definition": "nevertheless"
+    },
+    {
+        "word": "barycir",
+        "pronunciation": "[bah-REE-shir]",
+        "definition": "deploy"
+    },
+    {
+        "word": "bas neral",
+        "pronunciation": "[BAAS ner-AHL]",
+        "definition": "coarse grain used for animal fodder and brewing; thought unfit to eat"
+    },
+    {
+        "word": "ba'slanar",
+        "pronunciation": "[BAH-slah-NAR]",
+        "definition": "leave, depart, exit"
+    },
+    {
+        "word": "bat",
+        "pronunciation": "[baht]",
+        "definition": "on"
+    },
+    {
+        "word": "batnor",
+        "pronunciation": "[BAHT-nor]",
+        "definition": "drunk (lit. on your back)"
+    },
+    {
+        "word": "ba'vodu",
+        "pronunciation": "[BAH-vod-oo]",
+        "definition": "aunt (plural bavodu'e)"
+    },
+    {
+        "word": "ba'vodu",
+        "pronunciation": "[BAH-vod-oo]",
+        "definition": "uncle (plural bavodu'e)"
+    },
+    {
+        "word": "ba'yair",
+        "pronunciation": "[bah-yah-EER]",
+        "definition": "chew"
+    },
+    {
+        "word": "be",
+        "pronunciation": "[beh]",
+        "definition": "of"
+    },
+    {
+        "word": "be, b'",
+        "pronunciation": "[beh]",
+        "definition": "possessive prefix or suffix with proper nouns, e.g. be'jetii or (rare) jetiib - the Jedi's. Possessives are sometimes indicated simply by the proper noun preceding the word, e.g.Boba'kad - Boba's saber ."
+    },
+    {
+        "word": "be'chaaj",
+        "pronunciation": "[beh-CHAHJ]",
+        "definition": "away, afar"
+    },
+    {
+        "word": "behot",
+        "pronunciation": "[beh-HOHT]",
+        "definition": "herb used in beverages, mildly antiseptic and stimulating"
+    },
+    {
+        "word": "beroya",
+        "pronunciation": "[bair-OY-ah]",
+        "definition": "bounty hunter"
+    },
+    {
+        "word": "bes'bavar",
+        "pronunciation": "[BES-beh-var]",
+        "definition": "cavalry"
+    },
+    {
+        "word": "besbe",
+        "pronunciation": "[BES-bay]",
+        "definition": "kit (slang)"
+    },
+    {
+        "word": "besbe'trayce",
+        "pronunciation": "[BES-beh-TRAYSH-ay]",
+        "definition": "weapons"
+    },
+    {
+        "word": "bes'bev",
+        "pronunciation": "[BEZ-bev]",
+        "definition": "Mandalorian wind instrument also used for combat: a large metal flute with a sharpened, cut-off end."
+    },
+    {
+        "word": "be'senaar",
+        "pronunciation": "[BEH-sen-AHR]",
+        "definition": "missile"
+    },
+    {
+        "word": "beskad",
+        "pronunciation": "[BESS-kahd]",
+        "definition": "slightly curved saber of Mandalorian iron)"
+    },
+    {
+        "word": "beskar",
+        "pronunciation": "[BESK-gar]",
+        "definition": "Mandalorian iron"
+    },
+    {
+        "word": "beskar'ad",
+        "pronunciation": "[BES-kar-AHD]",
+        "definition": "droid"
+    },
+    {
+        "word": "beskar'gam",
+        "pronunciation": "[BES-kar-GAM]",
+        "definition": "armor"
+    },
+    {
+        "word": "beskaryc",
+        "pronunciation": "[BES-kar-EESH]",
+        "definition": "armored"
+    },
+    {
+        "word": "bes'laar",
+        "pronunciation": "[bez-LAHR]",
+        "definition": "music"
+    },
+    {
+        "word": "be'sol",
+        "pronunciation": "[beh-SOHL]",
+        "definition": "priority"
+    },
+    {
+        "word": "besom",
+        "pronunciation": "[BEE-som]",
+        "definition": "ill-mannered lout, unhygienic person, someone with no manners (in Mandalorian terms)"
+    },
+    {
+        "word": "bes'uliik",
+        "pronunciation": "[BES-oo-LEEK]",
+        "definition": "basilisk war droid"
+    },
+    {
+        "word": "beten",
+        "pronunciation": "[BEY-tehn]",
+        "definition": "sigh"
+    },
+    {
+        "word": "betenor",
+        "pronunciation": "[bey-TEHN-or]",
+        "definition": "sigh, to"
+    },
+    {
+        "word": "bev",
+        "pronunciation": "[bayve]",
+        "definition": "needle, spike"
+    },
+    {
+        "word": "beviin",
+        "pronunciation": "[BEH-veen]",
+        "definition": "lance"
+    },
+    {
+        "word": "beviiragir",
+        "pronunciation": "[beh-veer-AH-geer]",
+        "definition": "to fish - literally, spearing fish, but now applied to any method of catching fish"
+    },
+    {
+        "word": "bevik",
+        "pronunciation": "[BEH-veek]",
+        "definition": "stick"
+    },
+    {
+        "word": "bic",
+        "pronunciation": "[beek]",
+        "definition": "it (very generic use of it)"
+    },
+    {
+        "word": "Bic ni skana'din",
+        "pronunciation": "[Beek nee SKAH-nah-deen]",
+        "definition": "expression of being angry, repelled or *That really ticks me off.* From the words for give and a hated thing, much like *it gives me the scunners.*"
+    },
+    {
+        "word": "bid",
+        "pronunciation": "[beed]",
+        "definition": "so (degree)"
+    },
+    {
+        "word": "bid...ibac",
+        "pronunciation": "[beed...ibac]",
+        "definition": "as...as that"
+    },
+    {
+        "word": "bikadinir",
+        "pronunciation": "[bee-KAD-een-eer]",
+        "definition": "stab (with a broad blade) - *run through*"
+    },
+    {
+        "word": "bines",
+        "pronunciation": "[BEE-nays]",
+        "definition": "stack (noun)"
+    },
+    {
+        "word": "binesor",
+        "pronunciation": "[BEEN-ay-sor]",
+        "definition": "stack (verb)"
+    },
+    {
+        "word": "bintar",
+        "pronunciation": "[BEEN-tar]",
+        "definition": "both"
+    },
+    {
+        "word": "birgaan",
+        "pronunciation": "[beer-gahn]",
+        "definition": "backpack (bergen)"
+    },
+    {
+        "word": "birikad",
+        "pronunciation": "[BEER-ee-KAHD]",
+        "definition": "baby carrying harness"
+    },
+    {
+        "word": "birov",
+        "pronunciation": "[bee-ROHV]",
+        "definition": "many"
+    },
+    {
+        "word": "bora",
+        "pronunciation": "[BOH-ra]",
+        "definition": "job"
+    },
+    {
+        "word": "boracyk",
+        "pronunciation": "[boh-RAH-seek]",
+        "definition": "penniless, lit. between jobs"
+    },
+    {
+        "word": "borarir",
+        "pronunciation": "[boh-RAH-reer]",
+        "definition": "work (verb)"
+    },
+    {
+        "word": "bral",
+        "pronunciation": "[brahl]",
+        "definition": "hill fort, high ground, high defended position"
+    },
+    {
+        "word": "bralir",
+        "pronunciation": "[BRAH-leer]",
+        "definition": "to get the upper hand, to succeed"
+    },
+    {
+        "word": "bralov",
+        "pronunciation": "[BRAH-lov]",
+        "definition": "success"
+    },
+    {
+        "word": "brii'briik",
+        "pronunciation": "[bree-BREEK]",
+        "definition": "grid"
+    },
+    {
+        "word": "briik",
+        "pronunciation": "[breek]",
+        "definition": "line"
+    },
+    {
+        "word": "briikarir",
+        "pronunciation": "[BREE-kar-EER]",
+        "definition": "defilade (verb)"
+    },
+    {
+        "word": "briikasak",
+        "pronunciation": "[bree-KAH-sahk]",
+        "definition": "run-ashore (social event or night out while deployed)"
+    },
+    {
+        "word": "briikase",
+        "pronunciation": "[bree-KAH-say]",
+        "definition": "happy"
+    },
+    {
+        "word": "Briikase gote'tuur!",
+        "pronunciation": "[Bree-KAH-say go-te-TOOR]",
+        "definition": "Happy birthday!"
+    },
+    {
+        "word": "briirud",
+        "pronunciation": "[BREE-roo]",
+        "definition": "circle"
+    },
+    {
+        "word": "brokar",
+        "pronunciation": "[BROH-kar]",
+        "definition": "beat, to"
+    },
+    {
+        "word": "bu'ad",
+        "pronunciation": "[boo-AHD]",
+        "definition": "grandchild"
+    },
+    {
+        "word": "buir",
+        "pronunciation": "[boo-EER]",
+        "definition": "father"
+    },
+    {
+        "word": "buir",
+        "pronunciation": "[boo-EER]",
+        "definition": "mother"
+    },
+    {
+        "word": "buirkan",
+        "pronunciation": "[boo-EER-kan]",
+        "definition": "responsibility"
+    },
+    {
+        "word": "bui'tsad",
+        "pronunciation": "[BOO-eet-sahd]",
+        "definition": "family lineage (biological - rarely used)"
+    },
+    {
+        "word": "burc'ya",
+        "pronunciation": "[BOOR-sha]",
+        "definition": "friend (also used ironically)"
+    },
+    {
+        "word": "Burc'ya vaal burk'yc, burc'ya veman",
+        "pronunciation": "[BOOR-sha vahl BOOT-keesh, BOOR-shah veh-MAHN]",
+        "definition": "A friend in need... Lit. a friend during danger is a true friend"
+    },
+    {
+        "word": "burcyan",
+        "pronunciation": "[BOOR-shahn]",
+        "definition": "friendship, comradeship, close bond"
+    },
+    {
+        "word": "burk'yc",
+        "pronunciation": "[BOOR-keesh]",
+        "definition": "dangerous"
+    },
+    {
+        "word": "buruk",
+        "pronunciation": "[BOO-rook]",
+        "definition": "danger"
+    },
+    {
+        "word": "burun",
+        "pronunciation": "[BOO-roon]",
+        "definition": "weather"
+    },
+    {
+        "word": "buurenaar",
+        "pronunciation": "[boo-REY-nahr]",
+        "definition": "storm"
+    },
+    {
+        "word": "buyacir",
+        "pronunciation": "[boo-ya-SHEER]",
+        "definition": "recognize"
+    },
+    {
+        "word": "buyca",
+        "pronunciation": "[BOO-shah]",
+        "definition": "bucket, pail"
+    },
+    {
+        "word": "buy'ce",
+        "pronunciation": "[BOO-chay, BOO-shay]",
+        "definition": "helmet"
+    },
+    {
+        "word": "buy'ce gal",
+        "pronunciation": "[BOO_chay-GAL]",
+        "definition": "pint of ale - contents of helmet, actually a lot more than a pint!"
+    },
+    {
+        "word": "buycika",
+        "pronunciation": "[BOO-she-kah]",
+        "definition": "cradle"
+    }
+]
