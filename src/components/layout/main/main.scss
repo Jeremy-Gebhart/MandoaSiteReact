@@ -5,6 +5,8 @@
 
 @font-face {
     font-family: Mandalorian;
-    src: url(mandalor.ttf);
+    src: url(mandalor.ttf) format('truetype');
+    src: url(mandalor.woff) format('woff');
+    src: url(mandalor.woff2) format('woff2');
     font-weight: normal;
 }

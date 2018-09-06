@@ -6,4 +6,15 @@ gulp.task('moveJsonData', () => {
         .pipe(gulp.dest('dist/data'));
 });
 
-gulp.task('default', gulp.series(['moveJsonData']));
+gulp.task('moveFonts', () => {
+    const fontList = [
+        './src/components/layout/main/mandalor.ttf',
+        './src/components/layout/main/mandalor.woff',
+        './src/components/layout/main/mandalor.woff2'
+    ];
+    
+    return gulp.src(fontList)
+        .pipe(gulp.dest('dist/assets/fonts'));
+});
+
+gulp.task('default', gulp.series(['moveJsonData', 'moveFonts']));
