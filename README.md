@@ -27,3 +27,5 @@ npm run gulp
 ```sh
 npm start
 ```
+
+Open up your favorite browser and navigate to http://localhost:8080
