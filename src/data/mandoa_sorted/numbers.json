@@ -1,0 +1,112 @@
+[
+    {
+        "word": "Solus",
+        "pronunciation": "[SOH-loos]",
+         "definition": "One"
+    },
+    {
+        "word": "T'ad",
+        "pronunciation": "[tahd]",
+         "definition": "Two"
+    },
+    {
+        "word": "Ehn",
+        "pronunciation": "[ayhn]",
+         "definition": "Three"
+    },
+    {
+        "word": "Cuir",
+        "pronunciation": "[COO-eer]",
+         "definition": "Four"
+    },
+    {
+        "word": "Rayshe'a",
+        "pronunciation": "[ray-SHEE-ah]",
+         "definition": "Five"
+    },
+    {
+        "word": "Resol",
+        "pronunciation": "[reh-SOL]",
+         "definition": "Six"
+    },
+    {
+        "word": "E'tad",
+        "pronunciation": "[EH-tad]",
+         "definition": "Seven"
+    },
+    {
+        "word": "Sh'ehn",
+        "pronunciation": "[shayn]",
+         "definition": "Eight"
+    },
+    {
+        "word": "She'cu",
+        "pronunciation": "[SHAY-koo]",
+         "definition": "Nine"
+    },
+    {
+        "word": "Ta'raysh",
+        "pronunciation": "[ta-RAYSH]",
+         "definition": "Ten"
+    },
+    {
+        "word": "Ta'raysh Solus",
+        "pronunciation": "[TA-raysh SO-lus]",
+         "definition": "Eleven"
+    },
+    {
+        "word": "Ad'eta",
+        "pronunciation": "[ahd-AY-tah]",
+         "definition": "Twenty"
+    },
+    {
+        "word": "Ehn'eta",
+        "pronunciation": "[AYN-ay-tah]",
+         "definition": "Thirty"
+    },
+    {
+        "word": "Cu'eta",
+        "pronunciation": "[COO-ay-tah]",
+         "definition": "Fourty"
+    },
+    {
+        "word": "She'eta",
+        "pronunciation": "[SHE-ay-tah]",
+         "definition": "Fifty"
+    },
+    {
+        "word": "Rol'eta",
+        "pronunciation": "[ROHL-ay-tah]",
+         "definition": "Sixty"
+    },
+    {
+        "word": "Tad'eta",
+        "pronunciation": "[TAHD-ay-tah]",
+         "definition": "Seventy"
+    },
+    {
+        "word": "Shehn'eta",
+        "pronunciation": "[shayn-AY-tah]",
+         "definition": "Eighty"
+    },
+    {
+        "word": "Shek'eta",
+        "pronunciation": "[SHAYK-ay-tah]",
+         "definition": "Ninety"
+    },
+    {
+        "word": "Raysh'olan",
+        "pronunciation": "[RASYH-oh-lahn]",
+         "definition": "Five Hundred"
+    },
+    {
+        "word": "She'eta'olan",
+        "pronunciation": "[SHAYTA-oh-lahn]",
+         "definition": "Five Thousand"
+    },
+    {
+        "word": "Ta'raysholan",
+        "pronunciation": "[TAH-raysh-oh-lahn]",
+         "definition": "Thousand"
+    }
+]

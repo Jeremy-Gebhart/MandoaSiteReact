@@ -1,0 +1,512 @@
+[
+    {
+       "word": "sakagal",
+       "pronunciation": "[SAH-kah-gal]",
+       "definition": "X-wing"
+    },
+    {
+       "word": "sal",
+       "pronunciation": "[sahl]",
+       "definition": "color"
+    },
+    {
+       "word": "sapanyc",
+       "pronunciation": "[sah-PAHN-eesh]",
+       "definition": "electromagnetic"
+    },
+    {
+       "word": "sarad",
+       "pronunciation": "[SAH-rad]",
+       "definition": "flower, bloom"
+    },
+    {
+       "word": "saviin",
+       "pronunciation": "[sah-VEEN]",
+       "definition": "violet"
+    },
+    {
+       "word": "senaar",
+       "pronunciation": "[sen-ARR]",
+       "definition": "bird"
+    },
+    {
+       "word": "sen'tra",
+       "pronunciation": "[SEN-tra]",
+       "definition": "jetpack"
+    },
+    {
+       "word": "serim",
+       "pronunciation": "[SAIR-eem]",
+       "definition": "accurate, correct"
+    },
+    {
+       "word": "serimir",
+       "pronunciation": "[SAIR-ee-meer]",
+       "definition": "be right, to be accurate"
+    },
+    {
+       "word": "sha",
+       "pronunciation": "[sha]",
+       "definition": "at (before vowel - shal)"
+    },
+    {
+       "word": "sha ca'nara",
+       "pronunciation": "[SHAH kah-NAH-rah]",
+       "definition": "specific time - literally at time, often used in questions"
+    },
+    {
+       "word": "shaadlar",
+       "pronunciation": "[SHAHD`lar]",
+       "definition": "move"
+    },
+    {
+       "word": "shaap",
+       "pronunciation": "[shahp]",
+       "definition": "wood"
+    },
+    {
+       "word": "shaap'yc",
+       "pronunciation": "[sha-PEESH]",
+       "definition": "wooden"
+    },
+    {
+       "word": "shabiir",
+       "pronunciation": "[sha-BEER]",
+       "definition": "screw up - impolite"
+    },
+    {
+       "word": "shabla",
+       "pronunciation": "[SHAH-bla]",
+       "definition": "screwed up - impolite"
+    },
+    {
+       "word": "shab'rudur",
+       "pronunciation": "[shah-BROO-dur]",
+       "definition": "mess with - very strong language in Mando'a, so use only in extreme circumstances"
+    },
+    {
+       "word": "shabuir",
+       "pronunciation": "[SHAH-boo-EER]",
+       "definition": "extreme insult - *jerk*, but much stronger"
+    },
+    {
+       "word": "sha'kajir",
+       "pronunciation": "[SHAH-ka-JEER]",
+       "definition": "over a meal, at the dinner table, like the French *‡ table* - the word for table comes from the word for level, flat, so the implication is one of equals breaking bread together"
+    },
+    {
+       "word": "sha'kajir",
+       "pronunciation": "[SHAH-ka-JEER]",
+       "definition": "cease-fire, truce (from the practice of sitting down at a table with refreshments to talk terms, as in the same term for *over a meal*)"
+    },
+    {
+       "word": "shal",
+       "pronunciation": "[shahl]",
+       "definition": "at (before vowel)"
+    },
+    {
+       "word": "sharal",
+       "pronunciation": "[SHAH-ral]",
+       "definition": "lazy"
+    },
+    {
+       "word": "sheber",
+       "pronunciation": "[SHEH-bair]",
+       "definition": "sit (verb)"
+    },
+    {
+       "word": "sheb'ika",
+       "pronunciation": "[sheh-BEE-kah]",
+       "definition": "botty, tush (diminutive of shebs) - kids' word but sometimes used ironically or in humour"
+    },
+    {
+       "word": "shebs",
+       "pronunciation": "[shebs]",
+       "definition": "backside, rear, buttocks (also rear of building etc)"
+    },
+    {
+       "word": "sheb'urcyin",
+       "pronunciation": "[sheh-BOOR-shin]",
+       "definition": "sycophant, toady, *butt-kisser*"
+    },
+    {
+       "word": "she'cu",
+       "pronunciation": "[SHAY-koo]",
+       "definition": "nine"
+    },
+    {
+       "word": "she'eta",
+       "pronunciation": "[shayta]",
+       "definition": "fifty"
+    },
+    {
+       "word": "she'eta'olan",
+       "pronunciation": "[SHAYTA-oh-lahn]",
+       "definition": "five thousand"
+    },
+    {
+       "word": "sh'ehn",
+       "pronunciation": "[shayn]",
+       "definition": "eight"
+    },
+    {
+       "word": "shehn'eta",
+       "pronunciation": "[shayn-EH-tah]",
+       "definition": "eighty"
+    },
+    {
+       "word": "shekemir",
+       "pronunciation": "[SHEH-kay-meer]",
+       "definition": "follow"
+    },
+    {
+       "word": "shek'eta",
+       "pronunciation": "[SHAYK-ay-tah]",
+       "definition": "ninety"
+    },
+    {
+       "word": "shereshir",
+       "pronunciation": "[shair-AYSH-eer]",
+       "definition": "kidnap, seize"
+    },
+    {
+       "word": "shereshoy",
+       "pronunciation": "[sheh-REYSH-oy]",
+       "definition": "lust for life and much more - uniquely Mandalorian word, meaning the enjoyment of each day and the determination to seek and grab every possible experience, as well as surviving to see the next day - hanging onto life and relishing it. An understandable state of mind/ emotion for a warrior people. Closely related to the words for live, hunt and stay safe - and, of course *oya*. All from the same root."
+    },
+    {
+       "word": "shev'la",
+       "pronunciation": "[SHAYV-lah]",
+       "definition": "silent"
+    },
+    {
+       "word": "shi",
+       "pronunciation": "[shee]",
+       "definition": "just, only"
+    },
+    {
+       "word": "shig",
+       "pronunciation": "[sheeg]",
+       "definition": "beverage - any infusion of whatever's available, but usually a mildly stimulant herb with a citrus flavor called behot"
+    },
+    {
+       "word": "shiib",
+       "pronunciation": "[sheeb]",
+       "definition": "thin"
+    },
+    {
+       "word": "shi'yayc",
+       "pronunciation": "[shee-YAYSH]",
+       "definition": "yellow"
+    },
+    {
+       "word": "sho'cye",
+       "pronunciation": "[SHOW-shay]",
+       "definition": "ocean"
+    },
+    {
+       "word": "shok",
+       "pronunciation": "[shohk]",
+       "definition": "beam, joist (wood or other material)"
+    },
+    {
+       "word": "shokita",
+       "pronunciation": "[SHOK-ee-tah]",
+       "definition": "shelf"
+    },
+    {
+       "word": "shonar",
+       "pronunciation": "[SHOW-nar]",
+       "definition": "wave (noun, as in sea) - literally 'ocean movement'"
+    },
+    {
+       "word": "sho'sen",
+       "pronunciation": "[SHOW-sen]",
+       "definition": "submarine, submersible"
+    },
+    {
+       "word": "shosenla",
+       "pronunciation": "[show-SEN-la]",
+       "definition": "submerged, sunk, under water"
+    },
+    {
+       "word": "shukalar",
+       "pronunciation": "[SHOO-kah-lar]",
+       "definition": "to crush (in any sense), to conquer"
+    },
+    {
+       "word": "shuk",
+       "pronunciation": "[shook]",
+       "definition": "rift, tear"
+    },
+    {
+       "word": "shuk'la",
+       "pronunciation": "[SHOOK-lah]",
+       "definition": "fragmented, broken, crushed"
+    },
+    {
+       "word": "shuk'yc",
+       "pronunciation": "[shook-EESH]",
+       "definition": "not working, no use, useless, broken down, out of order - usually said of machinery"
+    },
+    {
+       "word": "shuk'la gett'se",
+       "pronunciation": "[SHOOK-lah GETT-say]",
+       "definition": "crushed or ground nuts (topping or ingredient for uj)"
+    },
+    {
+       "word": "shuk'la riduurok",
+       "pronunciation": "[SHOOK-lah ree-DOOR-ok]",
+       "definition": "divorce"
+    },
+    {
+       "word": "shuk'orok",
+       "pronunciation": "[shoo-KOH-rok]",
+       "definition": "crushgaunt"
+    },
+    {
+       "word": "shukur",
+       "pronunciation": "[SHOO-koor]",
+       "definition": "break"
+    },
+    {
+       "word": "shuner",
+       "pronunciation": "[shoon]",
+       "definition": "bread"
+    },
+    {
+       "word": "shuner",
+       "pronunciation": "[SHOO-nair]",
+       "definition": "flour, meal"
+    },
+    {
+       "word": "shupur",
+       "pronunciation": "[SHOO-poor]",
+       "definition": "injury"
+    },
+    {
+       "word": "shupur'yc",
+       "pronunciation": "[shoo-POOR-esh]",
+       "definition": "injured"
+    },
+    {
+       "word": "shupuur",
+       "pronunciation": "[shoo-POOR]",
+       "definition": "injure"
+    },
+    {
+       "word": "shushai",
+       "pronunciation": "[shoo-SHAI]",
+       "definition": "sensor (lit. eye-listening)"
+    },
+    {
+       "word": "shu'shuk",
+       "pronunciation": "[shoo-SHOOK]",
+       "definition": "disaster, big screw-up etc"
+    },
+    {
+       "word": "simir",
+       "pronunciation": "[see-MEER]",
+       "definition": "year"
+    },
+    {
+       "word": "sim'olan",
+       "pronunciation": "[seem-oh-LAHN]",
+       "definition": "century"
+    },
+    {
+       "word": "sirbur",
+       "pronunciation": "[SEER-boor]",
+       "definition": "say"
+    },
+    {
+       "word": "siver",
+       "pronunciation": "[SEE-vair]",
+       "definition": "degree"
+    },
+    {
+       "word": "skanah",
+       "pronunciation": "[SKAH-nah]",
+       "definition": "much-hated thing or person"
+    },
+    {
+       "word": "skira",
+       "pronunciation": "[SKEE-rah]",
+       "definition": "settling scores, revenge. feud (different to vengeance - more personal)"
+    },
+    {
+       "word": "skotah",
+       "pronunciation": "[SKOH-tah]",
+       "definition": "short"
+    },
+    {
+       "word": "skraan",
+       "pronunciation": "[scrahn]",
+       "definition": "food, *scran* (generic slang for a meal)"
+    },
+    {
+       "word": "skraan'ikase",
+       "pronunciation": "[SKRAH-nee-KAY-say]",
+       "definition": "assorted small snacks like meze or tapas - *small eats* - a celebratory meal for Mandos because it can take hours to eat, and the dishes are often fiddly, a contrast to the easy-to-eat, quick meals necessary in the field"
+    },
+    {
+       "word": "slaat",
+       "pronunciation": "[slaht]",
+       "definition": "mud"
+    },
+    {
+       "word": "Slana'pir!",
+       "pronunciation": "[SLAH-nah-PEER]",
+       "definition": "Get out! get lost! (very impolite)"
+    },
+    {
+       "word": "slanar",
+       "pronunciation": "[SLAH-nar]",
+       "definition": "go"
+    },
+    {
+       "word": "solegot",
+       "pronunciation": "[SOH-lay-goot]",
+       "definition": "computer (lit. counting machine)"
+    },
+    {
+       "word": "soletar",
+       "pronunciation": "[so-LAY-tahr]",
+       "definition": "count"
+    },
+    {
+       "word": "solus",
+       "pronunciation": "[SOH-loos]",
+       "definition": "alone, vulnerable"
+    },
+    {
+       "word": "solus",
+       "pronunciation": "[SOH-loos]",
+       "definition": "each, one"
+    },
+    {
+       "word": "solus",
+       "pronunciation": "[SOH-loos]",
+       "definition": "individual"
+    },
+    {
+       "word": "solus",
+       "pronunciation": "[SOH-loos]",
+       "definition": "united, as one"
+    },
+    {
+       "word": "sol'yc",
+       "pronunciation": "[sohl-EESH]",
+       "definition": "first"
+    },
+    {
+       "word": "sol'yc",
+       "pronunciation": "[sol-EESH]",
+       "definition": "first (ordinal)"
+    },
+    {
+      "word": "solnynir",
+      "pronunciation": "[sohl-nee-neer]",
+      "definition": "violence (lit. first hit)"		
+    },
+    {
+       "word": "Sooran, shab!",
+       "pronunciation": "[soo-RAHN shahb]",
+       "definition": "Contemptuous and triumphant comment - like *suck on that, chum!*"
+    },
+    {
+       "word": "sooranir",
+       "pronunciation": "[SOO-rah-neer]",
+       "definition": "suck, absorb, draw up (liquid)"
+    },
+    {
+       "word": "sosol ti",
+       "pronunciation": "[so-SOHL tee]",
+       "definition": "equal with"
+    },
+    {
+       "word": "spirba",
+       "pronunciation": "[SPEER-bah]",
+       "definition": "pass (as in break in terrain)"
+    },
+    {
+       "word": "staabi",
+       "pronunciation": "[STAH-bee]",
+       "definition": "right"
+    },
+    {
+       "word": "striil",
+       "pronunciation": "[streel]",
+       "definition": "strill - highly intelligent six-legged hunting carnivore, capable of gliding and flight"
+    },
+    {
+       "word": "striilir",
+       "pronunciation": "[STREE-leer]",
+       "definition": "track, trail"
+    },
+    {
+       "word": "su",
+       "pronunciation": "[SOO]",
+       "definition": "still, yet"
+    },
+    {
+       "word": "Su cuy'gar",
+       "pronunciation": "[Soo COO-ee-gar]",
+       "definition": "Hello - lit. *You're still alive.*"
+    },
+    {
+       "word": "Su'cuy",
+       "pronunciation": "[Soo-COO-ee]",
+       "definition": "Hi!"
+    },
+    {
+       "word": "sur'ar",
+       "pronunciation": "[soo-RAR]",
+       "definition": "concentrate, focus"
+    },
+    {
+       "word": "sur'gaan",
+       "pronunciation": "[soor-GAHN]",
+       "definition": "picture"
+    },
+    {
+       "word": "sur'haai",
+       "pronunciation": "[soor-HAI]",
+       "definition": "eye"
+    },
+    {
+       "word": "sur'ulur",
+       "pronunciation": "[SOOR-oo-LOOR]",
+       "definition": "keep an eye on, monitor"
+    },
+    {
+       "word": "sushir",
+       "pronunciation": "[SOO-sheer]",
+       "definition": "listen"
+    },
+    {
+       "word": "susulur",
+       "pronunciation": "[SOO-soo-LOOR]",
+       "definition": "hear"
+    },
+    {
+       "word": "suum",
+       "pronunciation": "[soom]",
+       "definition": "beyond"
+    },
+    {
+       "word": "Suum ca'nara",
+       "pronunciation": "[Soom CAH-na-RAH]",
+       "definition": "the state of blissful rest and peace"
+    },
+    {
+       "word": "suumpir",
+       "pronunciation": "[SOOM-peer]",
+       "definition": "lake"
+    },
+    {
+       "word": "suvarir",
+       "pronunciation": "[soo-VAHR-eer]",
+       "definition": "understand"
+    }
+ ]

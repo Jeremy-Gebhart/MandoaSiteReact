@@ -1,0 +1,477 @@
+[
+    {
+       "word": "kaab",
+       "pronunciation": "[kahb]",
+       "definition": "sound"
+    },
+    {
+       "word": "kad",
+       "pronunciation": "[kahd]",
+       "definition": "saber, sword"
+    },
+    {
+       "word": "kadala",
+       "pronunciation": "[kah-DAH-lah]",
+       "definition": "wounded, hurt"
+    },
+    {
+       "word": "kadale",
+       "pronunciation": "[kah-DAH-lay]",
+       "definition": "casualties"
+    },
+    {
+       "word": "kad'au",
+       "pronunciation": "[kahd-OW]",
+       "definition": "lightsaber"
+    },
+    {
+       "word": "kaden",
+       "pronunciation": "[KAH-den]",
+       "definition": "angry"
+    },
+    {
+       "word": "kadiilir",
+       "pronunciation": "[kah-DEE-leer]",
+       "definition": "breach, pierce"
+    },
+    {
+       "word": "kad'la",
+       "pronunciation": "[KAD-la]",
+       "definition": "sharp"
+    },
+    {
+       "word": "ka'gaht",
+       "pronunciation": "[KAH-gaht]",
+       "definition": "south"
+    },
+    {
+       "word": "kai'tome",
+       "pronunciation": "[kai-TOHM-ay]",
+       "definition": "food"
+    },
+    {
+       "word": "kajil",
+       "pronunciation": "[KAH-jeel]",
+       "definition": "flat, level"
+    },
+    {
+       "word": "kajir",
+       "pronunciation": "[KAH-jeer]",
+       "definition": "table"
+    },
+    {
+       "word": "kakovidir",
+       "pronunciation": "[kah-KOH-vee-deer]",
+       "definition": "cower"
+    },
+    {
+       "word": "kal",
+       "pronunciation": "[kahl]",
+       "definition": "blade"
+    },
+    {
+       "word": "kalikir",
+       "pronunciation": "[kah-LEE-keer]",
+       "definition": "stab with a narrow blade (*skewer*)"
+    },
+    {
+       "word": "kama",
+       "pronunciation": "[KAH-ma]",
+       "definition": "belt-spat"
+    },
+    {
+       "word": "kaminii",
+       "pronunciation": "[kah-MEE-nee]",
+       "definition": "Kaminoan"
+    },
+    {
+       "word": "kando",
+       "pronunciation": "[KAHN-do]",
+       "definition": "importance, weight"
+    },
+    {
+       "word": "kandosii",
+       "pronunciation": "[kahn-DOH-see]",
+       "definition": "indomitable, ruthless"
+    },
+    {
+       "word": "Kandosii!",
+       "pronunciation": "[Kan-DOH-see]",
+       "definition": "Nice one! Wicked! Well done!"
+    },
+    {
+       "word": "kandosii'la",
+       "pronunciation": "[kan-doh-SEE-la]",
+       "definition": "stunning, amazing"
+    },
+    {
+       "word": "Ka'ra",
+       "pronunciation": "[KAY-rah]",
+       "definition": "stars - ancient Mandalorian myth - ruling council of fallen kings"
+    },
+    {
+       "word": "kar'am",
+       "pronunciation": "[KAR-aam]",
+       "definition": "breath"
+    },
+    {
+       "word": "karbakar",
+       "pronunciation": "[KAR-bah-kar]",
+       "definition": "hyperdrive (lit: star to star)"
+    },
+    {
+       "word": "kar'ta",
+       "pronunciation": "[kah-ROH-ta]",
+       "definition": "heart"
+    },
+    {
+       "word": "kar'tayl",
+       "pronunciation": "[kar-TILE]",
+       "definition": "awareness, knowledge"
+    },
+    {
+       "word": "kar'taylir",
+       "pronunciation": "[kar-TIE-leer]",
+       "definition": "know, hold in the heart"
+    },
+    {
+       "word": "kar'taylir darasuum",
+       "pronunciation": "[kat-tay-LEER da-RAH-soom]",
+       "definition": "love"
+    },
+    {
+       "word": "karyai",
+       "pronunciation": "[CAR-yai ]",
+       "definition": "main living room of a traditional north Mandalorian house - a single big chamber for eating, talking, resting, and even the last secure stronghold when under attack"
+    },
+    {
+       "word": "K'atini!",
+       "pronunciation": "[kah-TEEN-ee]",
+       "definition": "Suck it up! Or: It's only pain!"
+    },
+    {
+       "word": "kaysh",
+       "pronunciation": "[kaysh]",
+       "definition": "he, him, his"
+    },
+    {
+       "word": "kaysh",
+       "pronunciation": "[kaysh]",
+       "definition": "her, hers"
+    },
+    {
+       "word": "Kaysh guur' skraan",
+       "pronunciation": "[KAYSH goor SCRAHN]",
+       "definition": "*He loves his food.* (Said of someone who has a healthy appetite, using the verb for affection rather than enjoyment.)"
+    },
+    {
+       "word": "Kaysh meg miit'gaana, oyacyi.",
+       "pronunciation": "[Kaysh mayg MEET-gah-NAH oy-AH-shee.]",
+       "definition": "Who writes, remains. (Proverb.)"
+    },
+    {
+       "word": "Kaysh mirsh solus",
+       "pronunciation": "[Kaysh meersh SOH-loos]",
+       "definition": "He's an idiot (lit. his brain cell is lonely)"
+    },
+    {
+       "word": "Kaysh mirsh'kyramud",
+       "pronunciation": "[Kaysh meersh kee-RAH-mood]",
+       "definition": "He's boring me senseless (Lit: he's a brain assassin)"
+    },
+    {
+       "word": "Kaysh shu'shuk",
+       "pronunciation": "[Kaish shoo-SHOOK]",
+       "definition": "He's a disaster"
+    },
+    {
+       "word": "Kaysh tayl'ud",
+       "pronunciation": "[Kaysh TAY-lood]",
+       "definition": "He's taking a break. He's having a nap."
+    },
+    {
+       "word": "Ke narir haar'ke'gyce rol'eta resol!",
+       "pronunciation": "[KEH-nah-REER-ha-ke-GHEE-shay rol-LAY-tah ray-SOL]",
+       "definition": "Execute Order 66!"
+    },
+    {
+       "word": "Ke serim",
+       "pronunciation": "[KEH-se-REEM!]",
+       "definition": "Take aim!"
+    },
+    {
+       "word": "ke, k'",
+       "pronunciation": "[keh]",
+       "definition": "imperative prefix - used as order"
+    },
+    {
+       "word": "kebbur",
+       "pronunciation": "[KEH-boor]",
+       "definition": "try, attempt"
+    },
+    {
+       "word": "kebiin",
+       "pronunciation": "[kay-BEEN]",
+       "definition": "blue"
+    },
+    {
+       "word": "kebii'tra",
+       "pronunciation": "[keh-BEE-trah]",
+       "definition": "sky (daytime) lit. blue sky"
+    },
+    {
+       "word": "kebise",
+       "pronunciation": "[keh-BEE-say]",
+       "definition": "things, stuff"
+    },
+    {
+       "word": "kedin",
+       "pronunciation": "[ked-EEN]",
+       "definition": "chain of command"
+    },
+    {
+       "word": "keenir",
+       "pronunciation": "[KEEN-eer]",
+       "definition": "infiltrate"
+    },
+    {
+       "word": "ke'gyce",
+       "pronunciation": "[keh-GHEE-shay]",
+       "definition": "order, command"
+    },
+    {
+       "word": "keldab",
+       "pronunciation": "[kel-DAHB]",
+       "definition": "citadel, stronghold"
+    },
+    {
+       "word": "kelita",
+       "pronunciation": "[kel-EE-tah]",
+       "definition": "moat"
+    },
+    {
+       "word": "kemir",
+       "pronunciation": "[KEH--meer]",
+       "definition": "walk"
+    },
+    {
+       "word": "Ke'mot!",
+       "pronunciation": "[Keh-MOHT]",
+       "definition": "Halt!"
+    },
+    {
+       "word": "Ke'sush!",
+       "pronunciation": "[Keh-SOOSH!]",
+       "definition": "Attention!"
+    },
+    {
+       "word": "kih",
+       "pronunciation": "[kee]",
+       "definition": "small"
+    },
+    {
+       "word": "Kih'parjai",
+       "pronunciation": "[Kee-PAR-jai]",
+       "definition": "No problem. Don't mention it. (Lit: small victory)"
+    },
+    {
+       "word": "kir'manir",
+       "pronunciation": "[keer-MAHN-eer]",
+       "definition": "adopt, give a soul to someone"
+    },
+    {
+       "word": "kisol",
+       "pronunciation": "[kee-SOHL]",
+       "definition": "few"
+    },
+    {
+       "word": "kles",
+       "pronunciation": "[klez]",
+       "definition": "nose"
+    },
+    {
+       "word": "klesir",
+       "pronunciation": "[KLEH-seer]",
+       "definition": "smell"
+    },
+    {
+       "word": "K'olar!",
+       "pronunciation": "[koh-LAR]",
+       "definition": "Come here! Get over here at once!"
+    },
+    {
+       "word": "kom'rk",
+       "pronunciation": "[KOHM-or-rohk]",
+       "definition": "gauntlet"
+    },
+    {
+       "word": "koor",
+       "pronunciation": "[koor]",
+       "definition": "deal, contract"
+    },
+    {
+       "word": "kot",
+       "pronunciation": "[kohd, koht]",
+       "definition": "strength"
+    },
+    {
+       "word": "kote",
+       "pronunciation": "[KOH-day, KOH-tay]",
+       "definition": "glory (pl)"
+    },
+    {
+       "word": "Kote lo'shebs'ul narit",
+       "pronunciation": "[koh-TAY low SHEBS-ool NAH-rit]",
+       "definition": "You can keep your glory. (Contemptuous and impolite.)"
+    },
+    {
+       "word": "kotep",
+       "pronunciation": "[KOH-tehp]",
+       "definition": "brave"
+    },
+    {
+       "word": "kotir",
+       "pronunciation": "[KOH-teer]",
+       "definition": "defeat, overpower"
+    },
+    {
+       "word": "kotyc",
+       "pronunciation": "[koh-TEESH]",
+       "definition": "strong"
+    },
+    {
+       "word": "kovid",
+       "pronunciation": "[KOV-eed]",
+       "definition": "head"
+    },
+    {
+       "word": "kov'nyn",
+       "pronunciation": "[KOHV-neen]",
+       "definition": "head-butt - noun"
+    },
+    {
+       "word": "kov'nynir",
+       "pronunciation": "[KOHV-nee-neer]",
+       "definition": "head-butt (see also Keldabe Kiss) - verb"
+    },
+    {
+       "word": "K'oyacyi!",
+       "pronunciation": "[Koy-AH-shee!]",
+       "definition": "1. *Cheers!* 2. Can also mean: *Hang in there* or 3. *Come back safely.* Literally, a command; *Stay alive!*"
+    },
+    {
+       "word": "kranak",
+       "pronunciation": "[KRAH-nahk]",
+       "definition": "fortified settlement or dwelling surrounded by water"
+    },
+    {
+       "word": "kurs",
+       "pronunciation": "[koorse]",
+       "definition": "forest"
+    },
+    {
+       "word": "kurshi",
+       "pronunciation": "[KOOR-shi]",
+       "definition": "tree"
+    },
+    {
+       "word": "kurshok",
+       "pronunciation": "[KOOR-shok]",
+       "definition": "plank of wood,"
+    },
+    {
+       "word": "kute",
+       "pronunciation": "[koo-Tay]",
+       "definition": "underwear, bodysuit, something worn under armor"
+    },
+    {
+       "word": "K'uur!",
+       "pronunciation": "[Koor]",
+       "definition": "Hush!"
+    },
+    {
+       "word": "kyor",
+       "pronunciation": "[KIE-ohr]",
+       "definition": "rotting, decay"
+    },
+    {
+       "word": "kyorar",
+       "pronunciation": "[KIE-ohr-ar]",
+       "definition": "rot, decay (verb)"
+    },
+    {
+       "word": "kyorla",
+       "pronunciation": "[kie-OHR-lah]",
+       "definition": "rotten"
+    },
+    {
+       "word": "kyr",
+       "pronunciation": "[KEER]",
+       "definition": "end"
+    },
+    {
+       "word": "Kyr ge'kaan",
+       "pronunciation": "[KEER geh-KAHN]",
+       "definition": "Endex (end of exercise - mil.)"
+    },
+    {
+       "word": "kyr'ad",
+       "pronunciation": "[KEER-ahd]",
+       "definition": "corpse"
+    },
+    {
+       "word": "kyr'adyc",
+       "pronunciation": "[keer-AH-deesh]",
+       "definition": "passed away, deceased"
+    },
+    {
+       "word": "kyr'am",
+       "pronunciation": "[kee-RAHM]",
+       "definition": "death"
+    },
+    {
+       "word": "kyramla",
+       "pronunciation": "[keer-AHM-la]",
+       "definition": "fatal, deadly"
+    },
+    {
+       "word": "kyramud",
+       "pronunciation": "[keer-AH-mood]",
+       "definition": "killer, assassin"
+    },
+    {
+       "word": "kyr'amur",
+       "pronunciation": "[kee-RAHM-oor]",
+       "definition": "kill"
+    },
+    {
+       "word": "kyrayc",
+       "pronunciation": "[keer-AYSH]",
+       "definition": "killed, dead"
+    },
+    {
+       "word": "kyrbej",
+       "pronunciation": "[KEER-bayj]",
+       "definition": "battlefield"
+    },
+    {
+       "word": "kyr'bes",
+       "pronunciation": "[KEER-bez]",
+       "definition": "skull, especially mythosaur skull - coll. Crown"
+    },
+    {
+       "word": "Kyr'tsad",
+       "pronunciation": "[KEERT-sahd]",
+       "definition": "Death Watch (lit. Death Society) - breakaway Mandalorian sect"
+    },
+    {
+       "word": "kyr'vhetine",
+       "pronunciation": "[KEER-fet-EEN-ay]",
+       "definition": "harvest"
+    },
+    {
+       "word": "kyr'yc",
+       "pronunciation": "[KEER-eesh]",
+       "definition": "last"
+    }
+ ]
