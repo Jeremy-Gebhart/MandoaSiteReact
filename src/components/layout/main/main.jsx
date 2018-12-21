@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 
 // Components
 import Header from './header/header.jsx';
@@ -10,7 +10,7 @@ import {BrowserRouter as Router} from 'react-router-dom'
 // Styles
 import "./main.scss";
 
-export default class Main extends React.Component {
+export default class Main extends Component {
     constructor() {
         super();
     }

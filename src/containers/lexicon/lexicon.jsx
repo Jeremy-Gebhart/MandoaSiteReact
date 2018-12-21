@@ -1,14 +1,19 @@
-import React from 'react';
-import Axios from 'axios';
-import "./Lexicon.scss";
+import React, { Component } from 'react';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
+import { fetchWordList } from '../../actions/index';
 
-export default class Lexicon extends React.Component {
-    constructor()
+import './Lexicon.scss';
+import Greeting from '../../components/shared/greetings';
+import LinkButton from  '../../components/shared/link-button';
+import VocabDisplay from '../../components/shared/vocab-display';
+
+class Lexicon extends Component {
+    constructor(props)
     {
-        super();
+        super(props);
 
         this.state = {
-            wordList: [],
             isTableHidden: true,
             isGreetingHidden: false
         }
@@ -22,19 +27,7 @@ export default class Lexicon extends React.Component {
                 isGreetingHidden: true
             });
         }
-
-        let url = "data/mandoa_sorted/" + datasetName + '.json';
-        Axios.get(url)
-            .then((response) => {                
-                console.log(response.data);
-                this.setState((prevState) => ({
-                    wordList: response.data,
-                    isTableHidden: false
-                }));
-            })
-            .catch((error) => {
-                
-            });
+        this.props.fetchWordList(dataetName);
     }
     render() {
         return (
@@ -42,7 +35,7 @@ export default class Lexicon extends React.Component {
                 <h1>Lexicon</h1>
                 <article className="linkList">                    
                     <LinkButton linkText="A" clickEvent={() => this.getWordList('a_vocab')} />
-                    <LinkButton linkText="B" clickEvent={() => this.getWordList('b_vocab')} />
+                    <LinkButton linkText="B" clickEvent={() => tthis.getWordList('b_vocab')} />
                     <LinkButton linkText="C" clickEvent={() => this.getWordList('c_vocab')} />
                     <LinkButton linkText="D" clickEvent={() => this.getWordList('d_vocab')} />
                     <LinkButton linkText="E" clickEvent={() => this.getWordList('e_vocab')} />
@@ -69,77 +62,18 @@ export default class Lexicon extends React.Component {
                     <LinkButton linkText="Prepositions" clickEvent={() => this.getWordList('prepositions')} />
                 </article>
                 {!this.state.isGreetingHidden && <Greeting />}
-                {!this.state.isTableHidden && <VocabDisplay wordList={this.state.wordList} />}
+                {!this.state.isTableHidden && <VocabDisplay wordList={this.props.wordList} />}
             </section>
         );
     }
 }
 
-const LinkButton = (props) => {
-    return (
-        <a onClick={props.clickEvent}>
-            {props.linkText}
-        </a>
-    );
+function mapStateToProps({ wordList, isTableHidden, isGreetingHidden }) {
+    return { wordList }; // This sets up the state to appear as props in the component
 }
 
-const Greeting = (props) => {
-    return (
-        <section id="starterMessage" className="show">
-            Please select a letter of the alphabet to begin.
-        </section>
-    );
+function mapDispatchToProps(dispatch) {
+    bindActionCreators({ fetchWordList }, dispatch); // Connect lookup action to container
 }
 
- class VocabDisplay extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-    render() {
-        let key = Date.now();
-        
-        return (
-            <section>
-                <table>
-                    <thead>
-                        <tr>
-                            <th><strong>Word</strong></th>
-                            <th><strong>Pronunciation</strong></th>
-                            <th><strong>Definition</strong></th>
-                            <th><strong>Mando&#39;a Spelling of Word</strong></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {this.props.wordList.map(entry => {
-                            return (<tr>
-                                <td>{entry.word}</td>
-                                <td>{entry.pronunciation}</td>
-                                <td>{entry.definition}</td>
-                                <td className="mandoa">{entry.word}</td>
-                            </tr>
-                        )})}
-                    </tbody>
-                </table>
-            </section>
-        );  
-    }
-}
-
-class ExpandableWindow extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-    render() {
-        return (
-            <section className="expandable">
-                <input id="collapsible" className="toggle" type="checkbox" />
-                <section className="collapsible-content">
-                    <section className="content">
-
-                    </section>
-                </section>
-                <label htmlFor="collapsible" className="lbl-toggle">Click here to see more options</label>
-            </section>
-        );
-    }
-}
+export default connect(mapStateToProps, mapDispatchToProps)(Lexicon); // Connect to Redux
