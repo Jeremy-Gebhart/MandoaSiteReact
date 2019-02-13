@@ -1,22 +1,15 @@
 const HtmlWebPackPlugin = require('html-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
-    entry: './src/app.jsx',
+    entry: ['./src/app.jsx'],
     output: {
         filename: 'dist/bundle-[hash:6].js'
     },
     module: {
         rules: [
             {
-                test: /\.js$/,
-                exclude: /node_modules/,
-                use: {
-                    loader: "babel-loader"
-                }
-            },
-            {
-                test: /\.jsx$/,
+                test: /\.js(x)$/,
                 exclude: /node_modules/,
                 use: {
                     loader: "babel-loader",
@@ -26,11 +19,12 @@ module.exports = {
                 }
             },
             {
-                test: /\.scss$/, 
-                use: ExtractTextPlugin.extract({
-                    fallback: 'style-loader',
-                    use: ['css-loader', 'sass-loader' ]
-                })
+                test: /\.(scss|css)$/, 
+                use: [
+                    MiniCssExtractPlugin.loader,
+                    'css-loader',
+                    'sass-loader'
+                ]
             },
             {
                 test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
@@ -48,6 +42,8 @@ module.exports = {
             template: "./src/index.html",
             filename: "./index.html"
         }),
-        new ExtractTextPlugin('assets/style-[hash:6].css'),
+        new MiniCssExtractPlugin({
+            filename: 'assets/style/style-[hash:6].css'
+        })
     ]
 };

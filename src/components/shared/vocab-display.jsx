@@ -1,12 +1,32 @@
 import React, { Component } from 'react';
 
 export default class VocabDisplay extends Component {
+
     constructor(props) {
         super(props);
+
+        //this.index = -1;
+    }
+    renderTable(entry) {
+        console.log(entry);
+        //this.index++;
+        return (
+            <tr>
+                <td>{entry.word}</td>
+                <td>{entry.pronunciation}</td>
+                <td>{entry.definition}</td>
+                <td className="mandoa">{entry.word}</td>
+            </tr>
+        );
     }
     render() {
-        let key = Date.now();
-        
+        let data = [];
+        let index = 0;
+        if (Object.values(this.props.wordList)[0] !== undefined)
+        {
+            data = Object.values(this.props.wordList)[0];
+        }
+
         return (
             <section>
                 <table>
@@ -19,14 +39,7 @@ export default class VocabDisplay extends Component {
                         </tr>
                     </thead>
                     <tbody>
-                        {this.props.wordList.map(entry => {
-                            return (<tr>
-                                <td>{entry.word}</td>
-                                <td>{entry.pronunciation}</td>
-                                <td>{entry.definition}</td>
-                                <td className="mandoa">{entry.word}</td>
-                            </tr>
-                        )})}
+                        {data.map(this.renderTable)}
                     </tbody>
                 </table>
             </section>

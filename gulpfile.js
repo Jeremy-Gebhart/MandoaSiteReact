@@ -14,7 +14,7 @@ gulp.task('moveFonts', () => {
     ];
     
     return gulp.src(fontList)
-        .pipe(gulp.dest('dist/assets/fonts'));
+        .pipe(gulp.dest('dist/assets/style/fonts'));
 });
 
 gulp.task('default', gulp.series(['moveJsonData', 'moveFonts']));

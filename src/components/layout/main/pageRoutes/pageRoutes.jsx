@@ -5,7 +5,7 @@ import About from '../../../about/about.jsx';
 import Flashcards from '../../../flashcards/flashcards.jsx';
 import Grammar from '../../../grammar/grammar.jsx';
 import Home from '../../../home/home.jsx';
-import Lexicon from '../../../../containers/lexicon/lexicon';
+import Lexicon from '../../../../containers/lexicon/lexicon.jsx';
 
 
 export default class PageRoutes extends React.Component {
